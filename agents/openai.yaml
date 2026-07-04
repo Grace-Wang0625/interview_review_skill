@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试 PDF 复盘"
+  short_description: "对照 STAR、可选知识库与网络资料，生成证据化面试复盘"
+  default_prompt: "使用 $interview-pdf-review 分析我上传的面试 PDF；如有本地知识库也一并对照。"
