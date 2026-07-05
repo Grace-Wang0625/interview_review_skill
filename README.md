@@ -6,8 +6,8 @@
 
 ## 直接安装或下载
 
-- **仓库地址：** <https://github.com/Grace-Wang0625/interview_skill>
-- **ZIP 直接下载：** <https://github.com/Grace-Wang0625/interview_skill/archive/refs/heads/main.zip>
+- **仓库地址：** <https://github.com/Grace-Wang0625/interview_review_skill>
+- **ZIP 直接下载：** <https://github.com/Grace-Wang0625/interview_review_skill/archive/refs/heads/main.zip>
 
 ### 在 Codex 中一句话安装
 
@@ -15,7 +15,7 @@
 
 ```text
 请从这个 GitHub 仓库安装 interview-pdf-review Skill：
-https://github.com/Grace-Wang0625/interview_skill
+https://github.com/Grace-Wang0625/interview_review_skill
 安装完成后告诉我如何调用。
 ```
 
@@ -27,7 +27,7 @@ https://github.com/Grace-Wang0625/interview_skill
 
 ```text
 请把这个 GitHub 仓库安装为用户级 Agent Skill：
-https://github.com/Grace-Wang0625/interview_skill
+https://github.com/Grace-Wang0625/interview_review_skill
 将它放到 ~/.claude/skills/interview-pdf-review，并检查 SKILL.md 是否可发现。
 ```
 
